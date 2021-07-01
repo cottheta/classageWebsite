@@ -1,9 +1,10 @@
 # classageWebsite
 classage an online virtual classroom, for teachers and students.
 
-Create Pdf<br>
-VideoConfrencieng<br>
-Share Assignments
-Share Notes
+<h3>Features
+Create Pdf,<br>
+VideoConfrencieng,<br>
+Share Assignments,<br>
+Share Notes<br>
 
 
